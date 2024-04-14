@@ -39,9 +39,9 @@ Una vez que el proyecto esté en funcionamiento, podrás utilizar todas las func
 
 ## Documentación Utilizada
 - [Documentación de Oracle](https://docs.oracle.com/en/java/javase/)
-- [W3C](https://www.w3.org/)
+- [W3C](https://www.w3schools.com/java/default.asp)
 - [Stack Overflow](https://stackoverflow.com/)
-- [Documentación de ChatGPT](https://beta.openai.com/docs/)
+- [Documentación de ChatGPT](https://chat.openai.com/)
 ## Créditos
 Este proyecto fue desarrollado por Eduardo Rodríguez Rosa como parte del Tema 6 del curso de Programación.
 
