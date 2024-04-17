@@ -51,7 +51,7 @@ public class EditorTextoERR extends JFrame {
         color.addActionListener(new ColorChooserUI());
 
 
-        // Añadimos el panel de botones al panel principal
+        // Añadimos el panel de botones y lo añadimos al panel principal
         panel1.add(buttonPanel, BorderLayout.NORTH);
 
         // Inicializamos el JTextPane
