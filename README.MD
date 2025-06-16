@@ -1,5 +1,5 @@
 # Eduardo Rodríguez Rosa
-## Programación - Tema 6
+
 ### Editor de texto en JFrame y Javax.Swing
 
 ## Índice
